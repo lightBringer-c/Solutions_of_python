@@ -3,6 +3,9 @@
 /workspace.xml
 .idea/
 .vscode/
+anaconda_projects/
+__pycache__/
+*.py[cod]
 *.iml
 # Editor-based HTTP Client requests
 /httpRequests/
